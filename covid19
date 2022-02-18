@@ -1,10 +1,1148 @@
-- 👋 Hi, I’m @bodfix15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
-<!---
-bodfix15/bodfix15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://checkqr.su/sites/default/files/ico.png" type="image/png" />
+<meta name="abstract" content="bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://checkqr.su/covid19/bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892" />
+<link rel="shortlink" href="https://checkqr.su/node/357374" />
+  <title>CheckQR - Проверка QR-кодов справок и сертификатов учреждений здравоохранения</title>
+  <style type="text/css" media="all">
+@import url("https://checkqr.su/modules/system/system.base.css?r7cgmc");
+@import url("https://checkqr.su/modules/system/system.menus.css?r7cgmc");
+@import url("https://checkqr.su/modules/system/system.messages.css?r7cgmc");
+@import url("https://checkqr.su/modules/system/system.theme.css?r7cgmc");
+</style>
+<style type="text/css" media="all">
+@import url("https://checkqr.su/sites/all/modules/calendar/css/calendar_multiday.css?r7cgmc");
+@import url("https://checkqr.su/modules/comment/comment.css?r7cgmc");
+@import url("https://checkqr.su/modules/field/theme/field.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/modules/logintoboggan/logintoboggan.css?r7cgmc");
+@import url("https://checkqr.su/modules/node/node.css?r7cgmc");
+@import url("https://checkqr.su/modules/search/search.css?r7cgmc");
+@import url("https://checkqr.su/modules/user/user.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/modules/views/css/views.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/modules/ckeditor/css/ckeditor.css?r7cgmc");
+</style>
+<style type="text/css" media="all">
+@import url("https://checkqr.su/sites/all/modules/ctools/css/ctools.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/modules/yandex_metrics/css/yandex_metrics.css?r7cgmc");
+</style>
+<style type="text/css" media="all">
+@import url("https://checkqr.su/sites/all/themes/bartik/css/layout.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/themes/bartik/css/style.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/themes/bartik/css/colors.css?r7cgmc");
+@import url("https://checkqr.su/sites/all/themes/bartik/css/my20.css?r7cgmc");
+</style>
+<style type="text/css" media="print">
+@import url("https://checkqr.su/sites/all/themes/bartik/css/print5.css?r7cgmc");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://checkqr.su/sites/all/themes/bartik/css/ie.css?r7cgmc" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://checkqr.su/sites/all/themes/bartik/css/ie6.css?r7cgmc" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://checkqr.su/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://checkqr.su/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://checkqr.su/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://checkqr.su/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://checkqr.su/misc/drupal.js?r7cgmc"></script>
+<script type="text/javascript" src="https://checkqr.su/sites/default/files/languages/ru_NSdQGj6eBjq-vNSx-wk2Smv-dWNnxIe6Pi9Otn1BbyE.js?r7cgmc"></script>
+<script type="text/javascript" src="https://checkqr.su/sites/all/modules/field_group/field_group.js?r7cgmc"></script>
+<script type="text/javascript" src="https://checkqr.su/sites/all/modules/google_qr_code/google.qrcode-execute.js?r7cgmc"></script>
+<script type="text/javascript" src="https://checkqr.su/sites/all/themes/bartik/js/jquery-3.4.1.min.js?r7cgmc"></script>
+<script type="text/javascript" src="https://checkqr.su/sites/all/themes/bartik/js/instascan.min.js?r7cgmc"></script>
+<script type="text/javascript" src="https://checkqr.su/sites/all/themes/bartik/js/my2.js?r7cgmc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"ZiyIo3CUBWH24pMaK4PpIHcyQ6AQWvfleBq7PCrl3o0","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/ru_NSdQGj6eBjq-vNSx-wk2Smv-dWNnxIe6Pi9Otn1BbyE.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/google_qr_code\/google.qrcode-execute.js":1,"sites\/all\/themes\/bartik\/js\/jquery-3.4.1.min.js":1,"sites\/all\/themes\/bartik\/js\/instascan.min.js":1,"sites\/all\/themes\/bartik\/js\/my2.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/yandex_metrics\/css\/yandex_metrics.css":1,"sites\/all\/themes\/bartik\/css\/layout.css":1,"sites\/all\/themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/bartik\/css\/colors.css":1,"sites\/all\/themes\/bartik\/css\/my20.css":1,"sites\/all\/themes\/bartik\/css\/print5.css":1,"sites\/all\/themes\/bartik\/css\/ie.css":1,"sites\/all\/themes\/bartik\/css\/ie6.css":1}},"googleQRcode":{"height":"180","width":"180","whenShow":"on_pageload","url":"https:\/\/checkqr.su\/covid19\/bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892"},"field_group":{"div":"full"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-357374 node-type-article" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Перейти к основному содержанию</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Главная" rel="home" id="logo">
+        <img src="https://checkqr.su/sites/default/files/iconQR4.png" alt="Главная" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name" class="element-invisible">
+              <strong>
+                <a href="/" title="Главная" rel="home"><span>CheckQR - Проверка QR-кодов справок и сертификатов учреждений здравоохранения</span></a>
+              </strong>
+            </div>
+                  
+                  <div id="site-slogan">
+            CheckQR.su - Проверка QR-кодов справок и сертификатов учреждений здравоохранения          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">Вы здесь</h2><div class="breadcrumb"><a href="/">Главная</a></div></div>
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="green">
+<div id="node-357374" class="node node-article node-full clearfix" about="/covid19/bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892" typeof="sioc:Item foaf:Document">
+
+      <span property="dc:title" content="bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    	<div style="display:none;">03.08.2022</br>1659474000</br>03.08.2021</br>1645131600</br></div>
+	<div class="passportDiv green ">
+	 <table class="qiksweb table_block mini">
+	<tbody>
+		<tr>
+			<td class="qiksweb45" colspan="3"><div class="centerTab">
+	<div class="iksdiv"><p >Сертификат действителен!</br>Certificate is valid!</p><p style='font-size:0.75em;'>Действителен до / Valid until: 
+	03.08.2022	</p></div></td>
+		</tr>
+		
+		<tr>
+			<td class="qiksweb44" colspan="3"></td>
+		</tr>
+		<tr>
+			<td class="qiksweb51" rowspan="5"><img src="C:\Users\ПК\Desktop\covid19\ww.png" alt="Фото"><p><a class="button024" href="https://checkqr.su/phpqrcode/QR_Certificate.php?name=Богдан&fam=Т*******&vac=Спутник Лайт&valid=03.08.2022&qr=https://checkqr.su/covid19/bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892" download>Скачать QR-код</a></p></td>
+			<th class="qiksweb50">Passport No: <p class="PassP">93 ****63</p></th>
+			<th>
+						</th>
+		</tr>
+		<tr>
+			<th class="qiksweb50" colspan="2">Surname: </br><p class="PassP"><b>K*****</b></p></th>
+		</tr>
+		<tr>
+			<th class="qiksweb50" colspan="2">Given names: </br><p class="PassP">Bogdan A*********</p></th>
+		</tr>  
+		<tr>
+			<th class="qiksweb50" colspan="2">Date of birth: </br><p class="PassP"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="1967-04-13T00:00:00+03:00">26.01.2002</span></p></th>
+		</tr>
+		<tr>
+			<th class="qiksweb50" colspan="2"></th>
+		</tr>
+	</tbody>
+    </table>
+	</div>
+	</div>
+	<div class="centerTab">
+	<form action="" method="POST">
+	<p style="    color: green;    font-size: 1.2em;    margin: 10px 0 5px 0;">To view your personal data, enter the last 6 digits of the passport number</p>
+	<p style="      font-size: 1.05em;    margin: 0 0 5px 0;">Для просмотра персональных данных введите последние 6 цифры номера паспорта</p>
+    <p><input type="text" name="lastpass" /></p>
+    <input type="submit" value="Check">
+    </form>  </div>
+
+  
+  
+</div>
+</div>  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-google-qr-code-qr-code" class="block block-google-qr-code">
+
+    <h2>Google QR Code Generator</h2>
+  
+  <div class="content">
+    <div id="google-qr-code"><img class="googleQRcode" typeof="foaf:Image" src="https://chart.googleapis.com/chart?chs=180x180&amp;cht=qr&amp;chl=https://checkqr.su/covid19/bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892&amp;chld=H|0" alt="QR Code for https://checkqr.su/covid19/bef4b93b52cc51b5ae6562537976f79d85bd14c61035336892" /></div>  </div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p class="rtecenter"><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Перечень прививочных пунктов</span></span></span></span><br /><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">для проведения иммунизации населения Донецкой Народной Республики</span></span></span></span><br /><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">против коронавирусной инфекции (COVID-19)</span></span></span></span></p>
+<table border="1"><tr><td>
+<p>№ п/п</p>
+</td>
+<td>
+<p>Название учреждения здравоохранения</p>
+</td>
+<td>
+<p>Структурное подразделение</p>
+</td>
+<td>
+<p>Адрес структурного подразделения</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>г. Донецк</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>1</p>
+</td>
+<td rowspan="3">
+<p>ГБУ «ЦПМСП № 1</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 4</p>
+</td>
+<td>
+<p>г. Донецк, ул. Независимости, 12 в</p>
+</td>
+</tr><tr><td>
+<p>2</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Якорная, 19</p>
+</td>
+</tr><tr><td>
+<p>3</p>
+</td>
+<td>
+<p>Амбулатория № 7</p>
+</td>
+<td>
+<p>г. Донецк, ул. Донэнерго, 23 а</p>
+</td>
+</tr><tr><td>
+<p>4</p>
+</td>
+<td rowspan="3">
+<p>ГБУ «ЦПМСП № 2</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Донецк, ул. Щорса,41</p>
+</td>
+</tr><tr><td>
+<p>5</p>
+</td>
+<td>
+<p>Амбулатория № 4</p>
+</td>
+<td>
+<p>г. Донецк, ул. Красноармейская, 88</p>
+</td>
+</tr><tr><td>
+<p>6</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Челюскинцев,53а</p>
+</td>
+</tr><tr><td>
+<p>7</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 3</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Донецк, ул. Овнатаняна, 16</p>
+</td>
+</tr><tr><td>
+<p>8</p>
+</td>
+<td>
+<p>Амбулатория № 6</p>
+</td>
+<td>
+<p>г. Донецк, ул. Павших Коммунаров, 96</p>
+</td>
+</tr><tr><td>
+<p>9</p>
+</td>
+<td rowspan="3">
+<p>ГБУ «ЦПМСП № 4</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Донецк, ул. Костюшко, 20</p>
+</td>
+</tr><tr><td>
+<p>10</p>
+</td>
+<td>
+<p>Амбулатория № 3</p>
+</td>
+<td>
+<p>г. Донецк, ул. Артема, 189</p>
+</td>
+</tr><tr><td>
+<p>11</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Лавренева, 24</p>
+</td>
+</tr><tr><td>
+<p>12</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 5</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Донецк, ул. Терешковой, 12</p>
+</td>
+</tr><tr><td>
+<p>13</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Кольцова, 25</p>
+</td>
+</tr><tr><td>
+<p>14</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП № 6</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Куценко, 19</p>
+</td>
+</tr><tr><td>
+<p>15</p>
+</td>
+<td rowspan="3">
+<p>ГБУ «ЦПМСП № 7</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Донецк, ул. Антарктидная, 1 а</p>
+</td>
+</tr><tr><td>
+<p>16</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Донецк, ул. Целиноградская, 46</p>
+</td>
+</tr><tr><td>
+<p>17</p>
+</td>
+<td>
+<p>Амбулатория № 3</p>
+</td>
+<td>
+<p>г. Донецк, ул. Куйбышева, 223/225</p>
+</td>
+</tr><tr><td>
+<p>18</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 9</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Донецк, ул. Диккенса, 1</p>
+</td>
+</tr><tr><td>
+<p>19</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Клиническая, 11</p>
+</td>
+</tr><tr><td>
+<p>20</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 10</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Донецк, ул. Возрождения, 1</p>
+</td>
+</tr><tr><td>
+<p>21</p>
+</td>
+<td>
+<p>Амбулатория № 4</p>
+</td>
+<td>
+<p>г. Донецк, ул. Знаменская, 2 а</p>
+</td>
+</tr><tr><td>
+<p>22</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 11</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 5</p>
+</td>
+<td>
+<p>г. Донецк, ул. Щетинина, 33а</p>
+</td>
+</tr><tr><td>
+<p>23</p>
+</td>
+<td>
+<p>Амбулатория № 6</p>
+</td>
+<td>
+<p>г. Донецк, ул. Степногорская, 19 а</p>
+</td>
+</tr><tr><td>
+<p>24</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП № 13</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Донецк, ул. Челюскинцев, 188 в</p>
+</td>
+</tr><tr><td>
+<p>25</p>
+</td>
+<td>
+<p>ДОКТМО МЗ ДНР</p>
+</td>
+<td>
+<p>Поликлиника № 1</p>
+</td>
+<td>
+<p>г. Донецк, пр. Ильича, 14</p>
+</td>
+</tr><tr><td>
+<p>26</p>
+</td>
+<td>
+<p>УНЛК «Университетская клиника» ГОО ВПО «ДОННМУ ИМ.<br /> М. ГОРЬКОГО»</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Донецк, пр. Дзержинского, 43 а</p>
+</td>
+</tr><tr><td>
+<p>27</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП № 8</p>
+<p>г. Донецка»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Донецк, пр. Кремлевский, 12 а</p>
+</td>
+</tr><tr><td>
+<p>28</p>
+</td>
+<td>
+<p>ГБУ «ГБ № 11 г. Донецка»</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Донецк, ул. Палладина, 54</p>
+</td>
+</tr><tr><td>
+<p>29</p>
+</td>
+<td>
+<p>ГБУ «ЦГБ № 14 г. Донецка</p>
+</td>
+<td>
+<p>Поликлиника № 1</p>
+</td>
+<td>
+<p>г. Донецк, ул. Петровского, 197</p>
+</td>
+</tr><tr><td>
+<p>30</p>
+</td>
+<td>
+<p>ГБУ «ГБ № 25 г. Донецка»</p>
+</td>
+<td>
+<p>Стационарный корпус</p>
+</td>
+<td>
+<p>г. Донецк, ул. Кирова, 332</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>г. Макеевка</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>31</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП № 1</p>
+<p>г. Макеевки»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Ленина, 94</p>
+</td>
+</tr><tr><td>
+<p>32</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП № 2</p>
+<p>г. Макеевки»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Радионова, 9</p>
+</td>
+</tr><tr><td>
+<p>33</p>
+</td>
+<td rowspan="3">
+<p>ГБУ «ЦПМСП № 3</p>
+<p>г. Макеевки»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Ленина, 140-3</p>
+</td>
+</tr><tr><td>
+<p>34</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Макеевка, пос. Ясиновка, ул. Ленина 82</p>
+</td>
+</tr><tr><td>
+<p>35</p>
+</td>
+<td>
+<p>Амбулатория № 4</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Ярошенко, 17</p>
+</td>
+</tr><tr><td>
+<p>36</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП № 4</p>
+<p>г. Макеевки»</p>
+</td>
+<td>
+<p>Амбулатории № 1,2</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Энгельса, 1</p>
+</td>
+</tr><tr><td>
+<p>37</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 5</p>
+<p>г. Макеевки»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Больничная, 1</p>
+</td>
+</tr><tr><td>
+<p>38</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Макеевка, ул. Новобольничная, 1</p>
+</td>
+</tr><tr><td>
+<p>39</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 6</p>
+<p>г. Макеевки»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Макеевка, пл. Трестовская, 9</p>
+</td>
+</tr><tr><td>
+<p>40</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Макеевка, пос. Нижняя Крынка, ул. Смирнова, 1</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>г. Горловка</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>41</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 2</p>
+<p>г. Горловка»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Горловка, пр. Ленина, 26</p>
+</td>
+</tr><tr><td>
+<p>42</p>
+</td>
+<td>
+<p>Амбулатория № 7</p>
+</td>
+<td>
+<p>г. Горловка, ул. Болотникова, 29</p>
+</td>
+</tr><tr><td>
+<p>43</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП № 1</p>
+<p>г. Горловка»</p>
+</td>
+<td>
+<p>Амбулатории № 1,2</p>
+</td>
+<td>
+<p>г. Горловка, ул. Рогозина, 3</p>
+</td>
+</tr><tr><td>
+<p>44</p>
+</td>
+<td>
+<p>Амбулатория № 9</p>
+</td>
+<td>
+<p>г. Горловка, пгт. Пантелеймоновка, ул. Виноградная, 14</p>
+</td>
+</tr><tr><td>
+<p>45</p>
+</td>
+<td>
+<p>ГБУ «Городская больница № 3 г. Горловка»</p>
+</td>
+<td>
+<p>Поликлиника № 2</p>
+</td>
+<td>
+<p>г. Горловка, ул. Политехническая, 39</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>г. Енакиево</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>46</p>
+</td>
+<td>
+<p>ГБУ «Городская больница № 1 г. Енакиево»</p>
+</td>
+<td>
+<p>Амбулатория № 2</p>
+</td>
+<td>
+<p>г. Енакиево, ул. 60 лет СССР, 37</p>
+</td>
+</tr><tr><td>
+<p>47</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «Городская больница № 2 г. Енакиево»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Енакиево, пр. Горняков, 2 а</p>
+</td>
+</tr><tr><td>
+<p>48</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Енакиево, ул. Фурманова, 4</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>Новоазовский р-н</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>49</p>
+</td>
+<td>
+<p>ГБУ «Новоазовская ЦРБ»</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Новоазовск, ул. Кирова, 178</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>г. Торез</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>50</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП г. Тореза»</p>
+</td>
+<td>
+<p>Амбулатории № 1,5</p>
+</td>
+<td>
+<p>г. Торез, ул. 50 лет СССР, 3</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>г. Шахтерск и Шахтерский р-н</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>51</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП г. Шахтерска»</p>
+</td>
+<td>
+<p>Амбулатории № 1, 4</p>
+</td>
+<td>
+<p>г. Шахтерск, ул. Кирова, 37</p>
+</td>
+</tr><tr><td>
+<p>52</p>
+</td>
+<td>
+<p>ГБУ «Шахтерский ЦПМСП»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Шахтерск, ул. Филатова, 1/5</p>
+</td>
+</tr><tr><td>
+<p><b> </b></p>
+</td>
+<td>
+<p><b>Амвросиевский р-н</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>53</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП Амвросиевского района»</p>
+</td>
+<td>
+<p>Городская амбулатория ОПСМ</p>
+</td>
+<td>
+<p>г. Амвросиевка, ул. Мичурина, 4</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Харцызск</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>54</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦГБ г. Харцызска»</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Харцызск, ул. Краснознаменская, 164</p>
+</td>
+</tr><tr><td>
+<p>55</p>
+</td>
+<td>
+<p>Поликлиника (Зугрэс)</p>
+</td>
+<td>
+<p>г. Зугрес, ул. Калинина, 17</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Дебальцево</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>56</p>
+</td>
+<td>
+<p>ГБУ «ЦГБ г. Дебальцево»</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Дебальцево, ул. Луганская, 1</p>
+</td>
+</tr><tr><td>
+<p>57</p>
+</td>
+<td>
+<p>Отделенческая больница ст. Дебальцево</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>г. Дебальцево, ул. Трудовая, 86</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Снежное</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>58</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП г. Снежное»</p>
+</td>
+<td>
+<p>Амбулатория № 4</p>
+</td>
+<td>
+<p>г. Снежное, ул. Руднева, 15</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>Старобешевский р-н</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>59</p>
+</td>
+<td rowspan="2">
+<p>ГБУ «ЦПМСП Старобешевского района»</p>
+</td>
+<td>
+<p>Старобешевская амбулатория</p>
+</td>
+<td>
+<p>пгт. Старобешево, ул. Победы, 94 г</p>
+</td>
+</tr><tr><td>
+<p>60</p>
+</td>
+<td>
+<p>Комсомольская амбулатория ОПСМ</p>
+</td>
+<td>
+<p>г. Комсомольское, ул. Горького, 36 а</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Докучаевск</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>61</p>
+</td>
+<td>
+<p>ГБУ «ЦГБ г. Докучаевска»</p>
+</td>
+<td>
+<p>Амбулатория № 1</p>
+</td>
+<td>
+<p>г. Докучаевск, ул. Комсомольская, 36</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Ясиноватая</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>62</p>
+</td>
+<td>
+<p>Ясиноватская ЦРБ</p>
+</td>
+<td>
+<p>Поликлиника № 2</p>
+</td>
+<td>
+<p>г. Ясиноватая, бул. Ленина, 3</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Кировское</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>63</p>
+</td>
+<td>
+<p>ГБУ «ЦГБ г. Кировское»</p>
+</td>
+<td>
+<p>Поликлиника ОПСМ</p>
+</td>
+<td>
+<p>г. Кировское, ул. Шахтерская, 46</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>Тельмановский р-н</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>64</p>
+</td>
+<td>
+<p>ГБУ «ЦРБ Тельмановского района»</p>
+</td>
+<td>
+<p>Поликлиника</p>
+</td>
+<td>
+<p>пгт. Тельманово, пер. Садовый, 6</p>
+</td>
+</tr><tr><td>
+</td>
+<td>
+<p><b>г. Ждановка</b></p>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr><tr><td>
+<p>65</p>
+</td>
+<td>
+<p>ГБУ «ЦПМСП<br /> г. Ждановка»</p>
+</td>
+<td>
+<p>Центр первичной медико-санитарной помощи</p>
+</td>
+<td>
+<p>г. Ждановка, кв-л 26/34, 7.</p>
+</td>
+</tr></table>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+    <div class="region region-page-bottom">
+    <div class="ym-counter"><!-- Yandex.Metrika counter -->
+
+<script type="text/javascript" >
+
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+
+
+   ym(83272504, "init", {
+
+        clickmap:true,
+
+        trackLinks:true,
+
+        accurateTrackBounce:true
+
+   });
+
+</script>
+
+<noscript><div><img src="https://mc.yandex.ru/watch/83272504" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- /Yandex.Metrika counter --></div>  </div>
+</body>
+</html>
